@@ -28,7 +28,8 @@ The steps involved:
 
 ## Dataset
 
-The dataset used is the **IMDB movie reviews dataset** consisting of 50,000 reviews split equally between training and testing sets.
+The dataset used is the **[IMDB movie reviews dataset](<IMDB Dataset.csv>)** consisting of 50,000 reviews split equally between training and testing sets.
+
 
 - **Positive reviews**: 25,000
 - **Negative reviews**: 25,000
