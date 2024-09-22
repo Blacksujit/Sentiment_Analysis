@@ -5,15 +5,9 @@ This project is a sentiment analysis model built to classify IMDB movie reviews 
 ## Table of Contents
 
 - [Overview](#overview)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Dependencies](#dependencies)
-- [Setup Instructions](#setup-instructions)
+- [Dataset](#dataset) 
 - [Models](#models)
-- [Training](#training)
-- [Evaluation](#evaluation)
 - [Results](#results)
-- [Future Enhancements](#future-enhancements)
 
 ## Overview
 
