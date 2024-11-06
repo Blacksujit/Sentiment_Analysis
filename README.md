@@ -13,9 +13,10 @@ This project is a sentiment analysis model built to classify IMDB movie reviews 
 
 
 
-## Video Explanation:
+## Project Video Demo
 
-<video controls src="fellowship_Project_Video.mp4" title="Title"></video>
+[Watch the video demonstration](https://go.screenpal.com/watch/cZQv6qVS7Qa)
+
 
 ## Overview
 
