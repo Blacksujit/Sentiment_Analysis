@@ -2,7 +2,7 @@
 
 This project is a sentiment analysis model built to classify IMDB movie reviews as either positive or negative using the **IMDB dataset**. It uses various machine learning models and deep learning techniques to handle the text data.
 
-## Table of Contents:
+## Table of Contents
 
 - [Overview](#overview)
 - [Dataset](#dataset) 
