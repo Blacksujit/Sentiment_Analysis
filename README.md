@@ -13,12 +13,12 @@ This project is a sentiment analysis model built to classify IMDB movie reviews 
 
 
 
-## Project Video Demo
+## Project Video Demo:
 
 [Click To Watch the video demonstration](https://go.screenpal.com/watch/cZQv6qVS7Qa)
 
 
-## Overview
+## Overview:
 
 This project performs binary classification on the IMDB dataset, where movie reviews are classified into positive (1) and negative (0) sentiments. It uses various machine learning algorithms and an LSTM-based deep learning model for comparison.
 
@@ -29,7 +29,7 @@ The steps involved:
 4. Evaluate their performance.
 5. Save the best model for future predictions.
 
-## Dataset
+## Dataset:
 
 The dataset used is the **[IMDB movie reviews dataset](<IMDB Dataset.csv>)** consisting of 50,000 reviews split equally between training and testing sets.
 
@@ -38,7 +38,7 @@ The dataset used is the **[IMDB movie reviews dataset](<IMDB Dataset.csv>)** con
 
 The dataset is split into training and validation sets for model training and evaluation.
 
-## Models
+## Models:
 
 We tested the following machine learning models on the dataset to determine their performance:
 
